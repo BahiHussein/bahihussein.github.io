@@ -2,7 +2,6 @@
 layout: post
 title: The Difference Between Viruses, Worms and Trojans
 ---
-
 Viruses, worms and trojans are all malware. A ‘Malware’ is a malicious software or script that infect your computer and comes in different forms, Although, they are all malware, they attack and spread differently and have different affects on your device. In this article i will focus mainly on the difference between viruses, worms and trojans.
 
 > ‘Malware‘ is an umbrella term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, worms, trojan horses, ransomware, spyware, adware, scareware, and other malicious programs.
