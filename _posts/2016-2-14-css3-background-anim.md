@@ -13,7 +13,6 @@ This article is written by Radwa Gamal @ 15th Dec 2015 CSS
 3. The best thing about animation is that you can control it easily by using percentages. For example :
 
 ```
-
 @keyframes cat {
     20%: //do this
     70% : //do this
@@ -33,9 +32,11 @@ Sub properties of animation property : ( Via Css-Tricks )
 
 1. HTML File : write a div and give it a class called “ bg “.
 
+```
 <body>
    <div class="bg"></bg>
 </body>
+```
 
 2. CSS File : First let’s start with the keyframes, we want in this example to change the background color of the screen in different times. So we start by defining the animation and give it a name called “bg-change” like the picture below.
 
