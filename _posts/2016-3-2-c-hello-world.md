@@ -5,21 +5,22 @@ title: Hello World (C programming)
 
 ## Welcome to C (an advice that you don't have to read)
 Working with C programming could be overwhelming for beginners. and that is because C is a low level programming language that requires a good understanding for the way that computers work, process and store data. I would personally recommend that you start with 
+
 1. ruby
 2. Javascript 
 3. C 
+4. This is _underlined_ but this is still *italic*.
 
 ## Hello World C
+~~~ c++
 
-```
 #include <stdio.h>
 main(){
     printf("Hello World \n");
 }
 
-```
-
-//==> this code will print out "Hello World"
+~~~
+*//==> this code will print out "Hello World"*
 
 Easy, Right!!. lets go through the few lines that we have wrote to see what is going on this small program. 
 
