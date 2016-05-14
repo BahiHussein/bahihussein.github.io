@@ -3,7 +3,10 @@ layout: post
 title: Google Operators
 ---
 
-##Basic Operators (+,-,~,.,"",OR)
+Google hacking is the term used when a hacker tries to find exploitable targets and sensitive data by using search engines. The Google Hacking Database (GHDB) is a database of queries that identify sensitive data.
+[source](http://www.acunetix.com/websitesecurity/google-hacking/)
+
+## Basic Operators (+,-,~,.,"",OR)
 Google ignore common words like (where, how, digits and single letters).
 for example: how to make money == make money
 1. (+) force inclusion of something common
