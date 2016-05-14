@@ -28,6 +28,7 @@ it uses each word in a dictionary for the correct password. Password dictionarie
 
 are dictionary attacks that my combine letter, numbers, and special characters; depending on the target password requirements. 
 example: 
+
 ><p>!H0tc0ffee</p>
 ><p>!H@cker1</p>
 ><p>!Hamburg?</p>
