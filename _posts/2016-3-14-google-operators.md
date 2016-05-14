@@ -4,7 +4,6 @@ title: Google Operators
 ---
 
 ##Basic Operators (+,-,~,.,"",OR)
-
 Google ignore common words like (where, how, digits and single letters).
 for example: how to make money == make money
 1. (+) force inclusion of something common

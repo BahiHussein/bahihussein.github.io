@@ -3,8 +3,6 @@ layout: post
 title: Password Cracking 
 ---
 
-## Password Cracking
-
 is a process used to identify an unknown or a forgotten password. It can be used be crackers to gain an unauthorized access to resources. Password cracking uses two primary methods to identify passwords. 
 
 1. Brute Force 
@@ -32,7 +30,6 @@ example:
 ><p>!H0tc0ffee</p>
 ><p>!H@cker1</p>
 ><p>!Hamburg?</p>
-
 
 #### Password Guessing (Information Gathering & Foot-printing)
 
