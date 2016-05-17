@@ -4,7 +4,9 @@ title: Introduction To Cryptography
 ---
 
 ## Cryptography
-Cryptography is the science of providing security for information. It has been used historically as a means of providing secure communication between individuals, government agencies, and military forces. Today, cryptography is a cornerstone of the modern security technologies used to protect information and resources on both open and closed networks. [source](https://technet.microsoft.com/en-us/library/cc962030.aspx)
+>Cryptography is the science of providing security for information. It has been used historically as a means of providing secure communication between individuals, government agencies, and military forces. Today, cryptography is a cornerstone of the modern security technologies used to protect information and resources on both open and closed networks. 
+
+[source](https://technet.microsoft.com/en-us/library/cc962030.aspx)
 
 According to Webopedia.com, Cryptography is defined as 
 
@@ -46,7 +48,26 @@ Asymmetric cryptography, is any cryptographic system that uses pairs of keys (pu
 [source](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
 
+### Cryptographic Hash
+
+>A cryptographic hash function is a hash function which takes an input (or 'message') and returns a fixed-size alphanumeric string, which is called the hash value (sometimes called a message digest, a digital fingerprint, a digest or a checksum).
+
+>The ideal hash function has three main properties:
+
+>It is extremely easy to calculate a hash for any given data.
+It is extremely computationally difficult to calculate an alphanumeric text that has a given hash.
+It is extremely unlikely that two slightly different messages will have the same hash.
+Functions with these properties are used as hash functions for a variety of purposes, not only in cryptography. Practical applications include message integrity checks, digital signatures, authentication, and various information security applications.
+
+>A hash function takes a string of any length as input and produces a fixed length string which acts as a kind of "signature" for the data provided. In this way, a person knowing the "hash value" is unable to know the original message, but only the person who knows the original message can prove the "hash value" is created from that message.
+
+[source](https://simple.wikipedia.org/wiki/Cryptographic_hash_function)
+
+![Hash](https://bahihussein.github.com/images/hash.png)
 
 ## Study Material 
 
 1. [Journey Into Cryptography Course By KhanAcadaemy](https://www.khanacademy.org/computing/computer-science/cryptography)
+2. [Types of Encryption](http://books.gigatux.nl/mirror/securitytools/ddu/ch09lev1sec1.html)
+3. [History Of Cryptography](http://www.tutorialspoint.com/cryptography/origin_of_cryptography.htm)
+4. [Classic Cypher](https://en.wikipedia.org/wiki/Classical_cipher)
