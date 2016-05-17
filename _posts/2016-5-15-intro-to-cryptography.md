@@ -54,9 +54,9 @@ A cryptographic hash function is a hash function which takes an input (or 'messa
 
 The ideal hash function has three main properties:
 
-    1. It is extremely easy to calculate a hash for any given data.
-    2. It is extremely computationally difficult to calculate an alphanumeric text that has a given hash.
-    3. It is extremely unlikely that two slightly different messages will have the same hash.
+1. It is extremely easy to calculate a hash for any given data.
+2. It is extremely computationally difficult to calculate an alphanumeric text that has a given hash.
+3. It is extremely unlikely that two slightly different messages will have the same hash.
 
 Functions with these properties are used as hash functions for a variety of purposes, not only in cryptography. Practical applications include message integrity checks, digital signatures, authentication, and various information security applications.
 
