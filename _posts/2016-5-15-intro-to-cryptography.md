@@ -32,12 +32,20 @@ It is the reverse of encryption. Decryption is the conversion of cipher text to 
 
 [source](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 
+![Symmetric Cryptography](https://bahihussein.github.com/images/symmetric.png)
+
+Key(A) is a shared secret sequence of characters shared between to parties. The same key can be used for encryption and decryption 
+
 ### Asymmetric Cryptography (Public-key cryptography)
 
 Asymmetric cryptography, is any cryptographic system that uses pairs of keys (public and private keys). The Public Key is used only for encryption and Private Key is used only for decryption.
 
+![Asymmetric Cryptography](https://bahihussein.github.com/images/asymmetric.png)
+
 >In a public-key encryption system, any person can encrypt a message using the public key of the receiver, but such a message can be decrypted only with the receiver's private key. For this to work it must be computationally easy for a user to generate a public and private key-pair to be used for encryption and decryption. The strength of a public-key cryptography system relies on the degree of difficulty (computational impracticality) for a properly generated private key to be determined from its corresponding public key. Security then depends only on keeping the private key private, and the public key may be published without compromising security.
 [source](https://en.wikipedia.org/wiki/Public-key_cryptography)
+
+
 
 ## Study Material 
 
