@@ -53,10 +53,9 @@ Asymmetric cryptography, is any cryptographic system that uses pairs of keys (pu
 >A cryptographic hash function is a hash function which takes an input (or 'message') and returns a fixed-size alphanumeric string, which is called the hash value (sometimes called a message digest, a digital fingerprint, a digest or a checksum).
 
 >The ideal hash function has three main properties:
-
->It is extremely easy to calculate a hash for any given data.
-It is extremely computationally difficult to calculate an alphanumeric text that has a given hash.
-It is extremely unlikely that two slightly different messages will have the same hash.
+    1. It is extremely easy to calculate a hash for any given data.
+    2. It is extremely computationally difficult to calculate an alphanumeric text that has a given hash.
+    3. It is extremely unlikely that two slightly different messages will have the same hash.
 Functions with these properties are used as hash functions for a variety of purposes, not only in cryptography. Practical applications include message integrity checks, digital signatures, authentication, and various information security applications.
 
 >A hash function takes a string of any length as input and produces a fixed length string which acts as a kind of "signature" for the data provided. In this way, a person knowing the "hash value" is unable to know the original message, but only the person who knows the original message can prove the "hash value" is created from that message.
